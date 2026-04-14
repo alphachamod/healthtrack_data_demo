@@ -1,0 +1,382 @@
+patient_id,appointment_date,doctor,department,notes,follow_up
+P0120,2025-06-22,Dr. Clarke,Cardiology,Post-surgery follow-up,No
+P0066,2024-04-12,Dr. Kim,Pulmonology,Routine follow-up,Pending
+P0106,2024-05-09,Dr. Fernandez,Cardiology,Weight management consultation,Yes
+P0039,2025-01-01,Dr. Ahmed,Cardiology,Weight management consultation,Yes
+P0482,2025-09-20,Dr. Kim,Endocrinology,Diabetes management,Pending
+P0392,2025-09-30,Dr. Osei,Cardiology,Blood pressure review,Yes
+P0443,2025-09-22,Dr. Clarke,Endocrinology,Asthma review,No
+P0096,2025-06-23,Dr. Ahmed,Nutrition,Cardiac screening,No
+P0286,2024-03-29,Dr. Hansen,Cardiology,Weight management consultation,Pending
+P0289,2025-04-24,Dr. Osei,Pulmonology,Weight management consultation,Yes
+P0079,2025-07-29,Dr. Hansen,Pulmonology,Sleep disorder evaluation,No
+P0084,2025-11-14,Dr. Osei,General Practice,Blood pressure review,Yes
+P0338,2025-10-18,Dr. Ahmed,Endocrinology,Nutrition counselling,Yes
+P0016,2025-03-24,Dr. Osei,Endocrinology,Asthma review,Yes
+P0013,2024-10-16,Dr. Hansen,Nutrition,Blood pressure review,Yes
+P0013,2025-05-15,Dr. Clarke,General Practice,Cardiac screening,No
+P0337,2024-04-12,Dr. Clarke,Endocrinology,Cholesterol check,No
+P0070,2025-11-12,Dr. Ahmed,Pulmonology,Vaccination update,Pending
+P0207,2024-06-27,Dr. Clarke,General Practice,Post-surgery follow-up,No
+P0393,2025-10-17,Dr. Ahmed,Cardiology,Cardiac screening,Yes
+P0283,2025-02-04,Dr. Patel,Nutrition,Physical therapy referral,No
+P0074,2024-10-09,Dr. Clarke,Cardiology,Annual checkup,Pending
+P0213,2024-01-04,Dr. Fernandez,General Practice,Cholesterol check,Pending
+P0014,2024-07-22,Dr. Osei,General Practice,Sleep disorder evaluation,Pending
+P0466,2024-06-30,Dr. Hansen,Cardiology,Blood pressure review,No
+P0381,2025-01-03,Dr. Clarke,Pulmonology,Vaccination update,Pending
+P0379,2025-06-10,Dr. Hansen,Endocrinology,Stress management,No
+P0136,2024-09-05,Dr. Kim,Nutrition,Routine follow-up,Yes
+P0033,2024-02-09,Dr. Fernandez,General Practice,Vaccination update,Pending
+P0300,2024-10-09,Dr. Kim,Cardiology,Post-surgery follow-up,Pending
+P0178,2025-07-28,Dr. Clarke,Nutrition,Vaccination update,Pending
+P0441,2024-11-30,Dr. Kim,Pulmonology,Asthma review,Pending
+P0162,2024-04-09,Dr. Patel,Endocrinology,Cholesterol check,No
+P0410,2025-12-28,Dr. Patel,General Practice,Cardiac screening,Pending
+P0214,2025-08-19,Dr. Fernandez,Endocrinology,Medication review,Yes
+P0155,2024-01-09,Dr. Patel,Pulmonology,Cholesterol check,No
+P0496,2024-02-18,Dr. Hansen,General Practice,Diabetes management,Yes
+P0319,2024-12-26,Dr. Kim,Nutrition,Blood pressure review,No
+P0427,2025-01-27,Dr. Clarke,Nutrition,Stress management,Pending
+P0411,2025-03-06,Dr. Fernandez,Pulmonology,Annual checkup,Pending
+P0236,2024-12-10,Dr. Kim,Nutrition,Nutrition counselling,Yes
+P0470,2025-10-19,Dr. Fernandez,Pulmonology,Annual checkup,Pending
+P0327,2024-02-25,Dr. Clarke,Pulmonology,Post-surgery follow-up,Yes
+P0145,2025-04-30,Dr. Kim,Endocrinology,Routine follow-up,Pending
+P0374,2025-09-05,Dr. Fernandez,General Practice,Weight management consultation,Pending
+P0489,2025-07-08,Dr. Kim,Cardiology,Blood pressure review,Pending
+P0477,2025-05-21,Dr. Osei,Endocrinology,Vaccination update,Yes
+P0024,2024-01-25,Dr. Osei,Cardiology,Blood pressure review,Yes
+P0138,2024-05-04,Dr. Patel,Cardiology,Cholesterol check,Yes
+P0406,2024-05-30,Dr. Patel,Cardiology,Cholesterol check,Yes
+P0447,2025-07-20,Dr. Patel,General Practice,Routine follow-up,Pending
+P0175,2025-02-12,Dr. Kim,General Practice,Sleep disorder evaluation,Pending
+P0089,2025-11-25,Dr. Osei,Pulmonology,Cardiac screening,No
+P0211,2024-08-03,Dr. Osei,Pulmonology,Routine follow-up,Pending
+P0406,2024-08-25,Dr. Patel,General Practice,Vaccination update,Pending
+P0144,2025-09-02,Dr. Clarke,General Practice,Blood pressure review,Yes
+P0124,2024-02-23,Dr. Clarke,General Practice,Blood pressure review,Yes
+P0312,2024-08-19,Dr. Clarke,General Practice,Vaccination update,Yes
+P0254,2024-08-25,Dr. Hansen,Cardiology,Blood pressure review,Yes
+P0132,2025-02-13,Dr. Patel,General Practice,Weight management consultation,No
+P0473,2025-03-20,Dr. Hansen,Nutrition,Stress management,Yes
+P0180,2025-04-14,Dr. Clarke,General Practice,Annual checkup,Pending
+P0465,2025-07-31,Dr. Kim,General Practice,Routine follow-up,Yes
+P0190,2025-08-12,Dr. Osei,Pulmonology,Post-surgery follow-up,No
+P0023,2024-03-13,Dr. Kim,General Practice,Diabetes management,Pending
+P0107,2024-03-26,Dr. Ahmed,Nutrition,Diabetes management,Yes
+P0285,2025-07-27,Dr. Patel,Pulmonology,Routine follow-up,Yes
+P0159,2025-12-10,Dr. Patel,Pulmonology,Post-surgery follow-up,No
+P0242,2025-12-22,Dr. Clarke,Endocrinology,Stress management,Pending
+P0238,2024-01-06,Dr. Clarke,Cardiology,Asthma review,Pending
+P0382,2024-01-29,Dr. Clarke,Nutrition,Cardiac screening,No
+P0057,2025-03-30,Dr. Ahmed,Nutrition,Blood pressure review,Yes
+P0296,2025-02-14,Dr. Clarke,General Practice,Vaccination update,Yes
+P0118,2025-11-25,Dr. Clarke,Nutrition,Cholesterol check,No
+P0461,2024-05-31,Dr. Ahmed,Endocrinology,Cholesterol check,Yes
+P0106,2024-11-17,Dr. Clarke,Nutrition,Medication review,Yes
+P0294,2024-08-21,Dr. Kim,Nutrition,Diabetes management,Yes
+P0413,2024-02-28,Dr. Hansen,General Practice,Sleep disorder evaluation,No
+P0174,2024-07-08,Dr. Patel,Cardiology,Diabetes management,Pending
+P0445,2024-04-10,Dr. Clarke,Endocrinology,Nutrition counselling,No
+P0119,2024-09-11,Dr. Ahmed,Cardiology,Blood pressure review,Yes
+P0435,2024-11-24,Dr. Fernandez,Cardiology,Sleep disorder evaluation,Pending
+P0187,2024-07-09,Dr. Hansen,General Practice,Cholesterol check,Pending
+P0088,2025-09-02,Dr. Fernandez,General Practice,Weight management consultation,Pending
+P0230,2024-09-04,Dr. Hansen,Nutrition,Vaccination update,Pending
+P0295,2025-08-03,Dr. Hansen,Endocrinology,Weight management consultation,Yes
+P0210,2024-06-14,Dr. Clarke,Endocrinology,Cardiac screening,Yes
+P0114,2025-05-05,Dr. Patel,Endocrinology,Post-surgery follow-up,Yes
+P0063,2025-11-01,Dr. Ahmed,Cardiology,Medication review,Pending
+P0196,2024-04-09,Dr. Hansen,Nutrition,Weight management consultation,Yes
+P0298,2024-09-22,Dr. Clarke,General Practice,Medication review,No
+P0157,2025-07-12,Dr. Clarke,Pulmonology,Weight management consultation,No
+P0181,2024-06-23,Dr. Ahmed,Nutrition,Cardiac screening,Yes
+P0362,2025-08-07,Dr. Fernandez,General Practice,Nutrition counselling,No
+P0021,2025-08-12,Dr. Clarke,Cardiology,Routine follow-up,Yes
+P0363,2024-11-05,Dr. Clarke,Nutrition,Weight management consultation,Pending
+P0367,2024-11-20,Dr. Osei,Cardiology,Vaccination update,Pending
+P0370,2024-01-19,Dr. Osei,Nutrition,Annual checkup,No
+P0189,2025-09-04,Dr. Osei,Nutrition,Vaccination update,Yes
+P0348,2025-04-19,Dr. Ahmed,General Practice,Vaccination update,Yes
+P0105,2025-08-02,Dr. Clarke,General Practice,Stress management,No
+P0279,2025-07-25,Dr. Fernandez,Endocrinology,Diabetes management,Yes
+P0015,2024-08-28,Dr. Hansen,Nutrition,Weight management consultation,Pending
+P0334,2024-06-18,Dr. Patel,Endocrinology,Sleep disorder evaluation,Pending
+P0301,2025-08-29,Dr. Patel,General Practice,Post-surgery follow-up,Yes
+P0134,2024-04-10,Dr. Ahmed,Pulmonology,Post-surgery follow-up,No
+P0466,2024-01-30,Dr. Kim,Cardiology,Post-surgery follow-up,Pending
+P0494,2025-08-26,Dr. Hansen,Nutrition,Blood pressure review,Yes
+P0191,2024-03-22,Dr. Clarke,Nutrition,Sleep disorder evaluation,No
+P0068,2025-10-29,Dr. Patel,Endocrinology,Cholesterol check,Pending
+P0203,2025-04-18,Dr. Patel,Endocrinology,Vaccination update,Pending
+P0160,2024-04-19,Dr. Osei,General Practice,Asthma review,Yes
+P0496,2024-11-26,Dr. Hansen,Pulmonology,Asthma review,Yes
+P0307,2025-10-19,Dr. Kim,Pulmonology,Physical therapy referral,Pending
+P0264,2024-09-27,Dr. Ahmed,Cardiology,Medication review,Yes
+P0401,2025-09-10,Dr. Ahmed,Nutrition,Blood pressure review,Yes
+P0146,2024-05-02,Dr. Ahmed,Pulmonology,Medication review,Pending
+P0257,2024-09-05,Dr. Osei,Cardiology,Post-surgery follow-up,Yes
+P0090,2025-11-13,Dr. Fernandez,Pulmonology,Routine follow-up,Yes
+P0361,2025-05-13,Dr. Patel,Nutrition,Cardiac screening,No
+P0454,2024-11-10,Dr. Hansen,Nutrition,Medication review,Yes
+P0101,2024-09-17,Dr. Kim,Nutrition,Medication review,Pending
+P0067,2025-03-22,Dr. Clarke,Pulmonology,Post-surgery follow-up,Yes
+P0137,2024-09-03,Dr. Kim,Pulmonology,Medication review,No
+P0498,2024-01-16,Dr. Patel,General Practice,Cardiac screening,No
+P0242,2024-03-05,Dr. Osei,General Practice,Sleep disorder evaluation,Yes
+P0372,2024-01-24,Dr. Patel,Endocrinology,Vaccination update,No
+P0480,2025-03-01,Dr. Osei,Endocrinology,Weight management consultation,No
+P0148,2025-10-11,Dr. Osei,General Practice,Asthma review,Yes
+P0248,2024-04-12,Dr. Clarke,Nutrition,Cholesterol check,No
+P0170,2025-11-10,Dr. Ahmed,Cardiology,Cholesterol check,Yes
+P0158,2024-11-26,Dr. Osei,General Practice,Medication review,No
+P0202,2025-08-12,Dr. Fernandez,Cardiology,Vaccination update,Yes
+P0424,2024-02-16,Dr. Hansen,General Practice,Nutrition counselling,Pending
+P0196,2025-11-01,Dr. Kim,General Practice,Routine follow-up,Pending
+P0336,2024-04-05,Dr. Patel,Pulmonology,Sleep disorder evaluation,No
+P0225,2025-11-06,Dr. Kim,Nutrition,Cholesterol check,No
+P0468,2024-09-30,Dr. Clarke,Nutrition,Sleep disorder evaluation,Yes
+P0400,2024-02-12,Dr. Hansen,Cardiology,Cardiac screening,Pending
+P0049,2025-05-23,Dr. Kim,Cardiology,Medication review,No
+P0142,2024-02-16,Dr. Ahmed,Endocrinology,Cholesterol check,No
+P0052,2025-07-27,Dr. Fernandez,Pulmonology,Post-surgery follow-up,No
+P0379,2024-08-01,Dr. Hansen,Nutrition,Stress management,Pending
+P0426,2025-04-09,Dr. Ahmed,General Practice,Cholesterol check,Yes
+P0412,2025-12-29,Dr. Fernandez,General Practice,Diabetes management,Yes
+P0467,2024-02-16,Dr. Clarke,Pulmonology,Cardiac screening,Yes
+P0270,2025-05-16,Dr. Kim,Cardiology,Blood pressure review,Yes
+P0147,2024-10-01,Dr. Kim,Cardiology,Vaccination update,No
+P0172,2024-11-11,Dr. Hansen,Cardiology,Post-surgery follow-up,Pending
+P0453,2024-02-23,Dr. Patel,Nutrition,Stress management,No
+P0062,2025-05-23,Dr. Osei,Pulmonology,Routine follow-up,Pending
+P0261,2025-12-05,Dr. Patel,General Practice,Weight management consultation,Pending
+P0031,2025-06-14,Dr. Kim,Nutrition,Sleep disorder evaluation,No
+P0284,2025-05-28,Dr. Patel,Endocrinology,Blood pressure review,Yes
+P0150,2025-05-22,Dr. Patel,Cardiology,Vaccination update,Pending
+P0354,2024-10-30,Dr. Osei,General Practice,Routine follow-up,Pending
+P0352,2024-12-31,Dr. Kim,Pulmonology,Weight management consultation,Yes
+P0271,2024-10-04,Dr. Kim,Endocrinology,Nutrition counselling,No
+P0452,2025-11-29,Dr. Clarke,General Practice,Asthma review,Pending
+P0505,2024-01-30,Dr. Patel,General Practice,New patient intake,Yes
+P0191,2024-03-06,Dr. Fernandez,Cardiology,Weight management consultation,No
+P0299,2024-03-17,Dr. Clarke,Endocrinology,Post-surgery follow-up,Pending
+P0459,2025-09-11,Dr. Patel,Pulmonology,Stress management,No
+P0281,2024-03-21,Dr. Patel,Cardiology,Physical therapy referral,Pending
+P0340,2025-12-20,Dr. Kim,Nutrition,Asthma review,No
+P0081,2025-10-19,Dr. Kim,Pulmonology,Asthma review,Yes
+P0168,2024-05-25,Dr. Clarke,Pulmonology,Annual checkup,Yes
+P0346,2025-04-23,Dr. Clarke,General Practice,Vaccination update,Yes
+P0140,2025-01-05,Dr. Patel,Pulmonology,Routine follow-up,Pending
+P0344,2025-01-18,Dr. Fernandez,General Practice,Vaccination update,Pending
+P0180,2025-04-24,Dr. Kim,Cardiology,Blood pressure review,No
+P0069,2024-01-12,Dr. Kim,Endocrinology,Annual checkup,Pending
+P0218,2024-03-15,Dr. Fernandez,Endocrinology,Nutrition counselling,Pending
+P0004,2025-09-20,Dr. Osei,Endocrinology,Sleep disorder evaluation,Pending
+P0123,2025-04-08,Dr. Clarke,Endocrinology,Blood pressure review,Pending
+P0227,2025-01-07,Dr. Fernandez,Pulmonology,Physical therapy referral,Pending
+P0347,2024-11-25,Dr. Hansen,Pulmonology,Asthma review,Yes
+P0100,2024-11-30,Dr. Patel,Nutrition,Routine follow-up,No
+P0387,2024-05-02,Dr. Patel,Endocrinology,Physical therapy referral,Yes
+P0119,2024-02-06,Dr. Kim,Endocrinology,Asthma review,Yes
+P0287,2025-12-13,Dr. Fernandez,Endocrinology,Asthma review,Pending
+P0484,2024-09-06,Dr. Clarke,Endocrinology,Nutrition counselling,No
+P0026,2024-10-22,Dr. Clarke,Nutrition,Stress management,Yes
+P0071,2024-01-18,Dr. Fernandez,General Practice,Cholesterol check,Yes
+P0278,2024-09-27,Dr. Ahmed,Pulmonology,Routine follow-up,Pending
+P0250,2024-01-27,Dr. Clarke,Cardiology,Weight management consultation,Pending
+P0322,2024-02-26,Dr. Ahmed,Cardiology,Sleep disorder evaluation,Pending
+P0370,2024-10-18,Dr. Patel,Pulmonology,Annual checkup,Pending
+P0417,2025-02-06,Dr. Fernandez,Pulmonology,Post-surgery follow-up,No
+P0094,2025-05-29,Dr. Osei,Nutrition,Diabetes management,Yes
+P0358,2025-01-21,Dr. Osei,Pulmonology,Diabetes management,Pending
+P0128,2025-06-21,Dr. Fernandez,Nutrition,Blood pressure review,Yes
+P0151,2025-10-23,Dr. Fernandez,Pulmonology,Routine follow-up,No
+P0197,2025-07-13,Dr. Patel,Pulmonology,Cholesterol check,No
+P0358,2024-10-03,Dr. Hansen,General Practice,Blood pressure review,Yes
+P0041,2025-07-06,Dr. Kim,Cardiology,Annual checkup,No
+P0273,2024-09-11,Dr. Ahmed,General Practice,Physical therapy referral,Yes
+P0469,2025-04-28,Dr. Clarke,Endocrinology,Sleep disorder evaluation,Yes
+P0116,2024-04-30,Dr. Fernandez,Cardiology,Annual checkup,Pending
+P0482,2025-07-06,Dr. Ahmed,General Practice,Stress management,No
+P0460,2025-02-04,Dr. Hansen,Pulmonology,Cardiac screening,No
+P0501,2025-06-03,Dr. Ahmed,General Practice,New patient intake,Yes
+P0440,2024-06-04,Dr. Fernandez,Cardiology,Post-surgery follow-up,No
+P0402,2025-08-30,Dr. Kim,Endocrinology,Medication review,Pending
+P0255,2025-04-22,Dr. Hansen,Endocrinology,Post-surgery follow-up,No
+P0476,2025-01-21,Dr. Osei,General Practice,Weight management consultation,Pending
+P0431,2024-04-30,Dr. Clarke,Pulmonology,Nutrition counselling,Pending
+P0253,2025-11-06,Dr. Fernandez,Nutrition,Annual checkup,Pending
+P0503,2024-10-02,Dr. Kim,General Practice,New patient intake,Yes
+P0333,2024-10-26,Dr. Osei,Pulmonology,Cholesterol check,Pending
+P0399,2024-01-11,Dr. Patel,Pulmonology,Routine follow-up,Pending
+P0500,2024-03-20,Dr. Fernandez,Cardiology,Stress management,Yes
+P0305,2025-01-10,Dr. Kim,General Practice,Medication review,No
+P0010,2025-11-02,Dr. Patel,Nutrition,Blood pressure review,Yes
+P0171,2024-02-10,Dr. Clarke,General Practice,Blood pressure review,No
+P0234,2024-10-02,Dr. Ahmed,Nutrition,Stress management,Yes
+P0304,2025-11-05,Dr. Patel,Nutrition,Post-surgery follow-up,Pending
+P0480,2024-12-20,Dr. Fernandez,General Practice,Sleep disorder evaluation,No
+P0486,2025-11-03,Dr. Kim,Pulmonology,Annual checkup,No
+P0383,2024-05-23,Dr. Clarke,Endocrinology,Vaccination update,No
+P0483,2025-11-07,Dr. Clarke,Endocrinology,Physical therapy referral,Yes
+P0348,2024-07-05,Dr. Osei,General Practice,Diabetes management,No
+P0321,2024-05-04,Dr. Hansen,Nutrition,Stress management,Yes
+P0262,2024-01-25,Dr. Osei,General Practice,Asthma review,Yes
+P0385,2025-12-05,Dr. Patel,Cardiology,Routine follow-up,Pending
+P0009,2024-04-12,Dr. Patel,Endocrinology,Weight management consultation,Yes
+P0049,2025-03-17,Dr. Fernandez,Endocrinology,Stress management,Yes
+P0029,2025-08-04,Dr. Hansen,Nutrition,Weight management consultation,Yes
+P0434,2025-05-30,Dr. Osei,Endocrinology,Cholesterol check,No
+P0177,2025-08-04,Dr. Hansen,Endocrinology,Vaccination update,Yes
+P0122,2025-03-17,Dr. Patel,Cardiology,Cardiac screening,Pending
+P0303,2025-01-23,Dr. Clarke,Cardiology,Vaccination update,Yes
+P0185,2025-08-25,Dr. Fernandez,Endocrinology,Physical therapy referral,Yes
+P0444,2025-04-29,Dr. Kim,Nutrition,Stress management,Yes
+P0018,2024-06-07,Dr. Clarke,Endocrinology,Post-surgery follow-up,Yes
+P0311,2025-08-16,Dr. Clarke,General Practice,Sleep disorder evaluation,Pending
+P0104,2024-04-22,Dr. Osei,General Practice,Cholesterol check,No
+P0404,2024-12-11,Dr. Hansen,Cardiology,Annual checkup,No
+P0276,2024-10-09,Dr. Patel,Nutrition,Post-surgery follow-up,Pending
+P0418,2024-09-26,Dr. Kim,General Practice,Diabetes management,Pending
+P0323,2024-08-09,Dr. Fernandez,Pulmonology,Asthma review,No
+P0035,2025-10-27,Dr. Ahmed,Endocrinology,Nutrition counselling,Yes
+P0377,2024-05-21,Dr. Hansen,General Practice,Cholesterol check,No
+P0245,2024-04-28,Dr. Patel,Pulmonology,Routine follow-up,Pending
+P0504,2025-02-14,Dr. Kim,General Practice,New patient intake,Yes
+P0027,2025-04-23,Dr. Osei,Cardiology,Diabetes management,Yes
+P0070,2024-01-31,Dr. Hansen,Cardiology,Asthma review,Yes
+P0223,2025-10-19,Dr. Fernandez,Endocrinology,Diabetes management,Yes
+P0011,2025-08-21,Dr. Osei,Nutrition,Post-surgery follow-up,Pending
+P0335,2025-10-14,Dr. Kim,Nutrition,Asthma review,Yes
+P0198,2024-12-26,Dr. Osei,Nutrition,Routine follow-up,No
+P0261,2024-10-16,Dr. Clarke,General Practice,Asthma review,Pending
+P0324,2025-12-14,Dr. Fernandez,Cardiology,Stress management,No
+P0464,2025-01-25,Dr. Hansen,General Practice,Blood pressure review,Yes
+P0404,2025-05-20,Dr. Clarke,Pulmonology,Weight management consultation,Pending
+P0121,2024-12-27,Dr. Clarke,Endocrinology,Vaccination update,Pending
+P0262,2024-05-23,Dr. Ahmed,Endocrinology,Stress management,No
+P0062,2024-04-20,Dr. Fernandez,Cardiology,Nutrition counselling,Yes
+P0432,2025-03-13,Dr. Kim,Cardiology,Blood pressure review,No
+P0258,2025-01-16,Dr. Kim,Pulmonology,Medication review,Pending
+P0259,2025-11-12,Dr. Patel,Nutrition,Weight management consultation,No
+P0117,2025-01-22,Dr. Hansen,Nutrition,Annual checkup,Pending
+P0386,2024-11-21,Dr. Patel,Nutrition,Medication review,Pending
+P0151,2024-07-21,Dr. Patel,General Practice,Stress management,No
+P0031,2024-10-19,Dr. Clarke,Pulmonology,Routine follow-up,Yes
+P0107,2024-11-14,Dr. Clarke,Cardiology,Stress management,Pending
+P0428,2024-10-21,Dr. Fernandez,Pulmonology,Routine follow-up,Yes
+P0313,2025-06-18,Dr. Clarke,Nutrition,Blood pressure review,Pending
+P0477,2024-03-19,Dr. Ahmed,Endocrinology,Sleep disorder evaluation,Yes
+P0201,2024-07-23,Dr. Clarke,Cardiology,Cardiac screening,Pending
+P0368,2024-10-08,Dr. Fernandez,General Practice,Blood pressure review,No
+P0184,2025-08-11,Dr. Osei,Nutrition,Post-surgery follow-up,No
+P0051,2025-04-27,Dr. Kim,Pulmonology,Cholesterol check,Yes
+P0423,2025-03-12,Dr. Kim,Endocrinology,Routine follow-up,Pending
+P0272,2025-05-20,Dr. Kim,Pulmonology,Blood pressure review,Pending
+P0331,2025-06-04,Dr. Hansen,Cardiology,Annual checkup,Pending
+P0072,2025-04-30,Dr. Kim,General Practice,Cholesterol check,Yes
+P0147,2024-03-03,Dr. Kim,Endocrinology,Weight management consultation,Pending
+P0361,2025-03-10,Dr. Fernandez,Cardiology,Medication review,Pending
+P0201,2024-07-23,Dr. Clarke,Endocrinology,Blood pressure review,No
+P0309,2024-05-18,Dr. Patel,Nutrition,Post-surgery follow-up,No
+P0152,2024-05-08,Dr. Kim,Cardiology,Stress management,No
+P0349,2024-03-14,Dr. Clarke,Cardiology,Medication review,Pending
+P0124,2025-01-12,Dr. Hansen,Nutrition,Annual checkup,Pending
+P0345,2025-06-09,Dr. Osei,General Practice,Post-surgery follow-up,Pending
+P0228,2024-06-19,Dr. Osei,Endocrinology,Post-surgery follow-up,Yes
+P0332,2024-01-16,Dr. Hansen,Cardiology,Physical therapy referral,Yes
+P0058,2024-05-22,Dr. Patel,Nutrition,Physical therapy referral,Pending
+P0246,2024-05-26,Dr. Osei,Cardiology,Cardiac screening,Pending
+P0462,2025-09-22,Dr. Osei,Pulmonology,Asthma review,Yes
+P0395,2025-04-16,Dr. Hansen,General Practice,Blood pressure review,Yes
+P0077,2024-02-15,Dr. Kim,Cardiology,Routine follow-up,Yes
+P0047,2025-09-16,Dr. Fernandez,Pulmonology,Annual checkup,No
+P0415,2024-07-29,Dr. Patel,Cardiology,Routine follow-up,Pending
+P0053,2025-06-26,Dr. Fernandez,Pulmonology,Routine follow-up,Yes
+P0398,2024-01-21,Dr. Hansen,Cardiology,Stress management,Yes
+P0390,2025-08-23,Dr. Clarke,Endocrinology,Blood pressure review,No
+P0499,2025-02-27,Dr. Osei,Pulmonology,Medication review,Yes
+P0011,2024-02-24,Dr. Osei,Cardiology,Sleep disorder evaluation,Yes
+P0165,2025-01-24,Dr. Osei,Nutrition,Asthma review,Pending
+P0451,2025-05-25,Dr. Osei,Cardiology,Cholesterol check,Pending
+P0304,2025-10-22,Dr. Fernandez,Pulmonology,Cholesterol check,Pending
+P0122,2025-03-17,Dr. Kim,Endocrinology,Annual checkup,No
+P0414,2024-08-04,Dr. Hansen,Endocrinology,Sleep disorder evaluation,Pending
+P0219,2024-10-06,Dr. Patel,Cardiology,Weight management consultation,No
+P0314,2025-06-27,Dr. Osei,Cardiology,Vaccination update,No
+P0047,2025-01-28,Dr. Fernandez,General Practice,Asthma review,Yes
+P0037,2025-11-06,Dr. Clarke,Nutrition,Annual checkup,Yes
+P0251,2025-05-06,Dr. Osei,Nutrition,Asthma review,No
+P0493,2025-10-12,Dr. Osei,General Practice,Weight management consultation,No
+P0395,2025-11-17,Dr. Ahmed,Pulmonology,Stress management,Pending
+P0238,2025-03-02,Dr. Patel,Cardiology,Cholesterol check,Yes
+P0025,2025-01-01,Dr. Kim,Nutrition,Asthma review,No
+P0315,2024-02-18,Dr. Fernandez,Endocrinology,Post-surgery follow-up,No
+P0439,2025-07-22,Dr. Hansen,General Practice,Vaccination update,Yes
+P0148,2025-08-23,Dr. Fernandez,Cardiology,Medication review,Yes
+P0490,2024-10-22,Dr. Patel,Endocrinology,Post-surgery follow-up,Pending
+P0160,2025-04-16,Dr. Patel,Endocrinology,Annual checkup,No
+P0384,2024-07-22,Dr. Patel,Nutrition,Cardiac screening,Pending
+P0046,2025-05-29,Dr. Ahmed,Nutrition,Weight management consultation,Yes
+P0502,2025-03-07,Dr. Fernandez,General Practice,New patient intake,Yes
+P0003,2024-04-30,Dr. Ahmed,Pulmonology,Cardiac screening,Pending
+P0058,2025-03-07,Dr. Clarke,Cardiology,Routine follow-up,Yes
+P0281,2025-02-24,Dr. Osei,Nutrition,Cholesterol check,No
+P0409,2025-06-04,Dr. Hansen,Nutrition,Post-surgery follow-up,No
+P0183,2024-12-17,Dr. Hansen,Nutrition,Blood pressure review,No
+P0378,2024-05-12,Dr. Kim,Pulmonology,Cholesterol check,Pending
+P0476,2025-11-26,Dr. Kim,Pulmonology,Vaccination update,Pending
+P0057,2024-07-27,Dr. Clarke,Nutrition,Routine follow-up,Pending
+P0129,2025-12-18,Dr. Kim,Pulmonology,Post-surgery follow-up,No
+P0252,2025-01-28,Dr. Hansen,Pulmonology,Vaccination update,Yes
+P0060,2025-11-13,Dr. Clarke,Cardiology,Blood pressure review,Yes
+P0063,2025-09-24,Dr. Osei,General Practice,Asthma review,Yes
+P0268,2024-05-23,Dr. Kim,Endocrinology,Cardiac screening,Yes
+P0099,2025-01-30,Dr. Osei,General Practice,Cholesterol check,No
+P0092,2024-10-28,Dr. Kim,General Practice,Diabetes management,No
+P0007,2025-12-21,Dr. Hansen,Pulmonology,Annual checkup,Yes
+P0277,2025-03-31,Dr. Kim,Cardiology,Physical therapy referral,No
+P0090,2024-07-10,Dr. Clarke,Pulmonology,Diabetes management,Yes
+P0396,2025-07-08,Dr. Hansen,Endocrinology,Vaccination update,Yes
+P0265,2025-03-22,Dr. Osei,Endocrinology,Stress management,Pending
+P0317,2024-12-28,Dr. Hansen,General Practice,Post-surgery follow-up,Yes
+P0131,2025-01-29,Dr. Clarke,Nutrition,Asthma review,Pending
+P0481,2025-05-21,Dr. Patel,Cardiology,Medication review,Yes
+P0373,2025-03-11,Dr. Kim,General Practice,Weight management consultation,No
+P0364,2024-10-24,Dr. Patel,General Practice,Cholesterol check,No
+P0218,2024-09-13,Dr. Ahmed,General Practice,Physical therapy referral,Pending
+P0064,2025-10-08,Dr. Patel,Pulmonology,Diabetes management,No
+P0369,2025-07-24,Dr. Patel,Endocrinology,Blood pressure review,No
+P0442,2025-11-04,Dr. Kim,General Practice,Cardiac screening,Yes
+P0001,2025-08-17,Dr. Clarke,Nutrition,Nutrition counselling,No
+P0371,2025-08-02,Dr. Fernandez,Endocrinology,Physical therapy referral,Yes
+P0167,2024-07-12,Dr. Fernandez,Cardiology,Nutrition counselling,No
+P0443,2025-03-23,Dr. Ahmed,Cardiology,Asthma review,Yes
+P0432,2025-01-21,Dr. Osei,Cardiology,Cardiac screening,Pending
+P0136,2025-03-07,Dr. Ahmed,Cardiology,Nutrition counselling,No
+P0087,2024-02-26,Dr. Ahmed,Endocrinology,Cardiac screening,No
+P0113,2024-01-01,Dr. Ahmed,Endocrinology,Diabetes management,No
+P0045,2024-10-07,Dr. Osei,General Practice,Nutrition counselling,Yes
+P0177,2025-12-05,Dr. Ahmed,Endocrinology,Asthma review,No
+P0366,2024-10-21,Dr. Clarke,Pulmonology,Cholesterol check,Yes
+P0463,2025-10-05,Dr. Fernandez,Nutrition,Diabetes management,No
+P0414,2024-06-02,Dr. Kim,General Practice,Blood pressure review,Pending
+P0282,2025-09-22,Dr. Clarke,General Practice,Routine follow-up,No
+P0229,2024-12-10,Dr. Hansen,Endocrinology,Stress management,Pending
+P0266,2024-10-22,Dr. Ahmed,Endocrinology,Annual checkup,No
+P0125,2024-08-20,Dr. Fernandez,Nutrition,Nutrition counselling,Yes
+P0061,2025-02-06,Dr. Ahmed,Cardiology,Post-surgery follow-up,Pending
+P0323,2025-05-21,Dr. Ahmed,Cardiology,Annual checkup,Pending
+P0127,2024-05-25,Dr. Ahmed,Cardiology,Post-surgery follow-up,No
+P0290,2025-10-25,Dr. Hansen,Nutrition,Stress management,Yes
+P0302,2025-11-26,Dr. Clarke,Endocrinology,Cardiac screening,Pending
+P0055,2024-10-23,Dr. Kim,Nutrition,Medication review,Yes
+P0173,2024-08-25,Dr. Fernandez,Endocrinology,Cholesterol check,Pending
+P0401,2024-07-28,Dr. Ahmed,Pulmonology,Annual checkup,Pending
+P0154,2024-06-19,Dr. Kim,Cardiology,Stress management,Pending
+P0268,2024-02-24,Dr. Fernandez,Endocrinology,Diabetes management,No
+P0271,2024-04-30,Dr. Fernandez,Endocrinology,Post-surgery follow-up,Pending
+P0322,2025-01-23,Dr. Osei,General Practice,Sleep disorder evaluation,No
+P0156,2025-03-23,Dr. Ahmed,Cardiology,Sleep disorder evaluation,No
+P0324,2025-05-15,Dr. Kim,Pulmonology,Medication review,Yes
